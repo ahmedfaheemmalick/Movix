@@ -1,6 +1,6 @@
 # Movix App
 
-[live Site](https://a-hoobank-app.netlify.app)
+[live Site](https://a-movix-app.netlify.app/)
 
 ![Movix App](/preview-1.png)
 ![Movix App](/preview-2.png)
